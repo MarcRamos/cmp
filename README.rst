@@ -24,6 +24,7 @@ Credits
 * Alia Lemkaddem (allem)
 * Stephan Gerhard (unidesigner)
 * Christophe Chênes (Cwis)
+* Alessandra Griffa (agriffa)
 
 ------------
 Contributors
